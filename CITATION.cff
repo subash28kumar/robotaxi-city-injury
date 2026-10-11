@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Same robot, different city: robotaxi crash injuries by U.S. city, 2021-2026 (analysis code)"
+authors:
+  - family-names: Kumar
+    given-names: Subash
+    orcid: "https://orcid.org/0009-0003-6661-3424"
+version: 1.0.0
+date-released: 2026-10-11
+repository-code: "https://github.com/subash28kumar/robotaxi-city-injury"
+license: MIT
+keywords:
+  - automated driving systems
+  - robotaxi
+  - injury severity
+  - explainable machine learning
+  - NHTSA Standing General Order
